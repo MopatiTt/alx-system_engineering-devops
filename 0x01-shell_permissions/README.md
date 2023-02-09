@@ -1,1 +1,1 @@
-substitute user(su) and use chmod command to change permissions
+prints the username using id command with -u option 
