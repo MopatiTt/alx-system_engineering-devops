@@ -1,5 +1,4 @@
 #!/bin/bash
-su betty
 chmod u+x betty
 
 
