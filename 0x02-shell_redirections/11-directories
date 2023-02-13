@@ -1,0 +1,2 @@
+#!/bin/bash
+count=$(find . -type d -name ".*" -o -type d | grep -v "^\.$" | wc -l); echo "Number of directories and subdirectories: $count"
